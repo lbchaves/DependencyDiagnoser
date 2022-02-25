@@ -1,4 +1,4 @@
-# DependencyDiagnoser
+# Dependency Diagnoser
 
 General Purpose Dependency Analyzer and Optimizer
 

@@ -22,6 +22,6 @@ Note: when change in one module spreads into other modules and potentially can c
 
 C) More Applications 
 
-- Spreadsheets: a formula that visits a cell more than once; 
-- Combinational circuits designed to be feed-forward or acyclic (hardware); 
-- Many others. 
+- Spreadsheets: a formula that visits cells in a circular topology; 
+- Combinational circuits designed to be feed-forward or acyclic (static hardware analysis); 
+- Many others...
